@@ -72,7 +72,7 @@ const runGameOfLife = (options: GameOfLifeOptions): void => {
   const runIteration = (): void => {
     printGrid(grid);
     grid = updateGrid(grid);
-    setTimeout(runIteration, 1);
+    setTimeout(runIteration, 100);
   };
 
   runIteration();
