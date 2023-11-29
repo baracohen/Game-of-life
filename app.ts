@@ -24,7 +24,7 @@ const initializeGrid = (options: GameOfLifeOptions): Cell[][] => {
 
     grid.push(row);
     }
-    console.log("grid",grid)
+
     return grid;
 };
   
@@ -82,7 +82,7 @@ const runGameOfLife = (options: GameOfLifeOptions): void => {
   const options: GameOfLifeOptions = {
     rows: 70,
     cols: 100,
-    initialDensity: 0.6,
+    initialDensity: 0.7,
   };
   
   runGameOfLife(options);
