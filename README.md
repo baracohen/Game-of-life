@@ -15,8 +15,8 @@ This TypeScript file contains the implementation of the Game of Life. It include
 - `runGameOfLife`: Initiates the Game of Life simulation.
 
 ### `instaltion`
-npm install -g typescript ts-node
-ts-node app.ts
+- npm install -g typescript ts-node
+- -ts-node app.ts
 
 
 ```typescript
