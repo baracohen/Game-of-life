@@ -1,6 +1,6 @@
 # Game of Life
 
-A simple implementation of Conway's Game of Life in TypeScript.
+A simple implementation of Game of Life in TypeScript.
 
 ## Code Overview
 
