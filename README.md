@@ -16,7 +16,7 @@ This TypeScript file contains the implementation of the Game of Life. It include
 
 ### `instaltion`
 - npm install -g typescript ts-node
-- -ts-node app.ts
+- ts-node app.ts
 
 
 ```typescript
